@@ -1,0 +1,23 @@
+{
+  "name": "webcrawlerhttp",
+  "version": "1.0.0",
+  "description": "Project to learn http",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelrcd/webcrawlerhttp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelrcd/webcrawlerhttp/issues"
+  },
+  "homepage": "https://github.com/angelrcd/webcrawlerhttp#readme",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
